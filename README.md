@@ -254,3 +254,6 @@ This repository serves as the official landing page for Sam & Max: Night of the 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sam & Max: Night of the Raving Dead today!**
+
+---
+**Last updated:** 2026-09-11 22:03:22 UTC
