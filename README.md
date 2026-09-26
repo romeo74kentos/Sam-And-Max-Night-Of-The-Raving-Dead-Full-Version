@@ -256,4 +256,4 @@ This repository serves as the official landing page for Sam & Max: Night of the 
 **Get the most recent version of Sam & Max: Night of the Raving Dead today!**
 
 ---
-**Last updated:** 2026-09-26 21:39:26 UTC
+**Last updated:** 2026-09-26 23:57:48 UTC
